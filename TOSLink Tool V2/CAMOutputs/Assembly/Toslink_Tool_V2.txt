@@ -1,0 +1,11 @@
+Partlist exported from C:/Users/rpooo/OneDrive - Massachusetts Institute of Technology/Documents/EAGLE/projects/TOSLink Tool V2/Toslink_Tool_V2.sch at 7/16/2020 4:53 PM
+
+Qty Value       Device      Package          Parts  Description                                                                                                     POPULARITY PROD_ID    SPICEPREFIX
+1               CONN_04     1X04             J1     Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections            CONN-09696            
+2   0.1uF       C2.5/2      C2.5-2           C1, C3 CAPACITOR                                                                                                       28                               
+1   270R        R-US_0204/5 0204/5           R1     RESISTOR, American symbol                                                                                                                        
+1   47pF        C2.5/2      C2.5-2           C2     CAPACITOR                                                                                                       28                               
+1   500R        R-US_0204/5 0204/5           R2     RESISTOR, American symbol                                                                                                                        
+1   MMICC7      MMICC7      MMICC7           L1     INDUCTOR                                                                                                        0                     L          
+1   TC74HC04APF TC74HC04APF DIP14-P-300-2.54 U$1                                                                                                                                                     
+1   TODX2355(F) TODX2355(F) TODX2355(F)      U$2                                                                                                                                                     
